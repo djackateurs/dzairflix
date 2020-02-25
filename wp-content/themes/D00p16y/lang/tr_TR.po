@@ -1,0 +1,3338 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: DooPlay\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: DooThemes <doothemes@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.9\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr_TR\n"
+
+msgid "Add Image"
+msgstr "Resim Ekle"
+
+msgid "Add to gallery"
+msgstr "Galeri Ekle"
+
+msgid "Advertising"
+msgstr "Reklam"
+
+msgid "Air date"
+msgstr "Yayın tarihi"
+
+msgid "Assign ID IMDb, example (http://www.imdb.com/title/tt0120338/) = <b>tt0120338</b>"
+msgstr "IMDb Kimliğini ata, örnek (http://www.imdb.com/title/tt0120338/) = <b> tt0120338 </ b>"
+
+msgid "Awards"
+msgstr "Ödüller"
+
+msgid "Backdrop"
+msgstr "Perde arkası"
+
+msgid "Backdrops - Place each image url below another"
+msgstr "Perde arkası - Her resim URL'sini bir başka alanın altına yerleştirin"
+
+msgid "Budget"
+msgstr "Bütçe"
+
+msgid "Bulk actions"
+msgstr "Toplu Seçenekler"
+
+msgid "Country"
+msgstr "Ülke"
+
+msgid "Customize"
+msgstr "Özelleştir"
+
+msgid "Data"
+msgstr "Bilgi"
+
+msgid "Episode Title"
+msgstr "Bölüm Başlığı"
+
+msgid "Episode runtime"
+msgstr "Bölüm süresi"
+
+msgid "Episodes"
+msgstr "Bölümler"
+
+msgid "Featured image episode"
+msgstr "Öne çıkan bölüm resimleri"
+
+msgid "Firt air date"
+msgstr "İlk yayın tarihi"
+
+msgid "Generate"
+msgstr "Üret"
+
+msgid "Generate Data (TMDb)"
+msgstr "Veri çek (TMDb)"
+
+msgid "Generate data from IMDb"
+msgstr "Veri çek IMDb"
+
+msgid "Generating episodes"
+msgstr "Bölümler Üretiliyor .."
+
+msgid "Generating seasons"
+msgstr "Sezonlar oluşturuluyor"
+
+msgid "Hello Admin, activate theme"
+msgstr "Merhaba Admin, temayı etkinleştir"
+
+msgid "Home Page"
+msgstr "Anasayfa"
+
+msgid "Home page"
+msgstr "Ana Sayfa"
+
+msgid "IMDB Rating"
+msgstr "IMDB Puanı"
+
+msgid "IMDB votes"
+msgstr "IMDB Oyları"
+
+msgid "Images"
+msgstr "Fotoğraf"
+
+msgid "Last air date"
+msgstr "Son yayın tarihi"
+
+msgid "License"
+msgstr "Lisans"
+
+msgid "Main Backdrop"
+msgstr "Perde arkası"
+
+msgid "Media"
+msgstr "Medya"
+
+msgid "Movie Info"
+msgstr "Film Bilgisi"
+
+msgid "No image selected"
+msgstr "Resim seçilmedi"
+
+msgid "Number of episode: 4"
+msgstr "Bölüm sayısı: 4"
+
+msgid "Number of episodes"
+msgstr "Bölüm sayısı"
+
+msgid "Number of season: 1"
+msgstr "Sezon sayısı: 1"
+
+msgid "Number of seasons"
+msgstr "Sezon sayısı"
+
+msgid "Original Name"
+msgstr "Orijinal İsmi"
+
+msgid "Original title"
+msgstr "Orijinal İsmi"
+
+msgid "Permalinks"
+msgstr "Linkler"
+
+msgid "Popularity"
+msgstr "Popülerlik"
+
+msgid "Poster"
+msgstr "Poster"
+
+msgid "Poster Serie"
+msgstr "Dizi Posteri"
+
+msgid "Rated"
+msgstr "Puan"
+
+msgid "Release Date"
+msgstr "Yayın Tarihi"
+
+msgid "Revenue"
+msgstr "Gelir"
+
+msgid "Reverse current order"
+msgstr ""
+
+msgid "Runtime"
+msgstr "Süre"
+
+msgid "Save Options"
+msgstr "Ayarları Kaydet"
+
+msgid "Season"
+msgstr "Sezon"
+
+msgid "Season name"
+msgstr "Sezon İsmi"
+
+msgid "Serie"
+msgstr "Dizi"
+
+msgid "Social Network"
+msgstr "Sosyal Medya"
+
+msgid "Sort by date modified"
+msgstr "Son değiştirilme tarihi"
+
+msgid "Sort by date uploaded"
+msgstr "Son yüklenme tarihi"
+
+msgid "Sort by title"
+msgstr "Başlığa göre sırala"
+
+msgid "Status"
+msgstr "Durumu"
+
+msgid "Support form"
+msgstr "Destek formu"
+
+msgid "TMDb ID"
+msgstr "TMDb ID"
+
+msgid "TMDb Rating"
+msgstr "TMDb Puanı"
+
+msgid "TMDb votes"
+msgstr "TMDb oyları"
+
+msgid "TVShow ID: 1402"
+msgstr ""
+
+msgid "TVShows Info"
+msgstr "Dizi Bilgisi"
+
+msgid "Tag line"
+msgstr "Slogan"
+
+msgid "Theme Settings"
+msgstr "Tema Ayarları"
+
+msgid "Tools"
+msgstr "Araçlar"
+
+msgid "Trailer ID Youtube"
+msgstr "Youtube Fragman ID"
+
+msgid "Type"
+msgstr "Tip"
+
+msgid "URL Poster (optional)"
+msgstr "URL Posteri (opsiyonel)"
+
+msgid "Upload"
+msgstr "Yükle"
+
+msgid "Version"
+msgstr "Versiyon"
+
+msgid "Vote Average"
+msgstr "Oy Ortalaması"
+
+msgid "Vote Count"
+msgstr "Oy Sayısı"
+
+msgid "[Yotube] Opening video"
+msgstr "[Youtube] Açılış videosu"
+
+msgid "here"
+msgstr "buraya"
+
+msgid "not close this page to complete the upload"
+msgstr "Yükleme tamamlanmadan sayfayı kapatmayın"
+
+msgid "seasons Info"
+msgstr "Sezon Bilgisi"
+
+msgid "Options Updated"
+msgstr "Seçenekler güncellendi"
+
+msgid "Select"
+msgstr "Seçin"
+
+msgid "Activate your license to install future updates"
+msgstr "Gelecekteki güncellemeleri yüklemek için lisansınızı etkinleştirin"
+
+msgid "License activated, thanks."
+msgstr "Lisans aktif, teşekkürler."
+
+msgid "Director"
+msgstr "Yönetmen"
+
+msgid "Creator"
+msgstr "Senarist"
+
+msgid "Protagonists"
+msgstr "Baş Kahraman"
+
+msgid "Cast"
+msgstr "Oyuncular"
+
+msgid "Guest Star"
+msgstr "Misafir Oyuncu"
+
+msgid "Studio"
+msgstr "Stüdyo"
+
+msgid "Networks"
+msgstr "Kanal"
+
+msgid "Year"
+msgstr "Yıl"
+
+msgid "Genres"
+msgstr "Tür"
+
+msgid "Episode"
+msgstr "Bölüm"
+
+msgid "Seasons"
+msgstr "Sezonlar"
+
+msgid "Movies"
+msgstr "Filmler"
+
+msgid "TV Shows"
+msgstr "Diziler"
+
+msgid "Generate Episodes"
+msgstr "Bölümler oluştur"
+
+msgid "Generate seasons"
+msgstr "Sezonları oluştur"
+
+msgid "Title episode"
+msgstr "Bölüm Başlığı"
+
+msgid "Theme License"
+msgstr "Tema Lisans"
+
+msgid "Enter your theme license key."
+msgstr "Tema lisans anahtarınızı girin."
+
+msgid "License Key"
+msgstr "Lisans Şifresi"
+
+msgid "Deactivate License"
+msgstr "Lisans Devredışı Bırak"
+
+msgid "Activate License"
+msgstr "Aktive"
+
+msgid "License status is unknown."
+msgstr "Lisans durumu bilinmiyor."
+
+msgid "Renew?"
+msgstr "Yenile?"
+
+msgid "unlimited"
+msgstr "Limitsiz"
+
+msgid "License key is active."
+msgstr "Lisans anahtarınız etkin."
+
+msgid "Expires %s."
+msgstr "Bitiş tarihi %s."
+
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+msgid "License key expired %s."
+msgstr ""
+
+msgid "License key has expired."
+msgstr ""
+
+msgid "License keys do not match."
+msgstr ""
+
+msgid "License is inactive."
+msgstr ""
+
+msgid "License key is disabled."
+msgstr ""
+
+msgid "Site is inactive."
+msgstr ""
+
+msgid "Updating this theme will lose any customizations you have made. 'Cancel' to stop, 'OK' to update."
+msgstr ""
+
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" title=\"%4s\">Check out what's "
+"new</a> or <a href=\"%5$s\"%6$s>update now</a>."
+msgstr ""
+
+msgid "Customize theme"
+msgstr "Özelleştir"
+
+#: core/input.php:533
+msgid "%s value is required"
+msgstr "%s onaylanması gerekli"
+
+msgid "Run time"
+msgstr "Çalışma Süresi"
+
+msgid "vote"
+msgid_plural "votes"
+msgstr[0] "Oyla"
+msgstr[1] ""
+
+msgid "(1) comment"
+msgid_plural "(%1$s) comments"
+msgstr[0] "(1) yorum"
+msgstr[1] "(%1$s) yorum"
+
+msgid "votes"
+msgstr "Oy"
+
+msgid "Links"
+msgstr "Altyazılar"
+
+msgid "views"
+msgstr "Görüntülenme"
+
+msgid "Leave a comment"
+msgstr "Yorum Yaz"
+
+msgid "Share"
+msgstr "Paylaş"
+
+msgid "Add widgets"
+msgstr "Bileşen Ekle"
+
+msgid "Tweet"
+msgstr "Tweetle"
+
+msgid "Synopsis"
+msgstr "Açıklama"
+
+msgid "IMDb Rating"
+msgstr "IMDb Puanı"
+
+msgid "Watch trailer"
+msgstr "Fragman İzle"
+
+msgid "Similar titles"
+msgstr "Benzer Başlıkları"
+
+msgid "no link's"
+msgstr "altyazı yok"
+
+msgid "Delete"
+msgstr "Sil"
+
+msgid "Edit"
+msgstr "Düzenle"
+
+msgid "Manage"
+msgstr "Yönet"
+
+msgid "Added"
+msgstr "Eklendi"
+
+msgid "Language"
+msgstr "Dil"
+
+msgid "Quality"
+msgstr "Kalite"
+
+msgid "Server"
+msgstr "Sunucu"
+
+msgid "+ Add new link"
+msgstr "+ Yeni altyazı ekle"
+
+msgid "Search..."
+msgstr "Arama..."
+
+msgid "Your comment.."
+msgstr "Yorumunu buraya yazabilirsin..."
+
+msgid "Name"
+msgstr "İsim"
+
+msgid "Email"
+msgstr "E-posta"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Post comment"
+msgstr "Bir ﻿Yorum Gönder"
+
+msgid "Info"
+msgstr "Bilgi"
+
+msgid "Submit a link"
+msgstr "Altyazı Gönder"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "Send Link"
+msgstr "Altyazı Gönder"
+
+msgid "Add a display name"
+msgstr "Görünen Ad Ekle"
+
+msgid "Your email address will not be published"
+msgstr "E-posta adresiniz yayımlanmayacak"
+
+msgid "Your rating:"
+msgstr "Oyunuz:"
+
+msgid "Trailer"
+msgstr "Fragman"
+
+msgid "Video trailer"
+msgstr "Fragman Videosu"
+
+msgid "Full Cast & Crew"
+msgstr "Tüm Ekip & Oyuncular"
+
+msgid "Sidebar Movies single"
+msgstr "Kenar Çubuğu Tek Filmler"
+
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Yan çubuğunuzda görünmek için buraya widget ekleyin."
+
+msgid "Sidebar TVShows single"
+msgstr ""
+
+msgid "Sidebar Seasons single"
+msgstr ""
+
+msgid "Sidebar Episodes single"
+msgstr ""
+
+msgid "A widget to display Popular content"
+msgstr ""
+
+msgid "DooPlay - Sidebar Popular content"
+msgstr ""
+
+msgid "Title:"
+msgstr "Başlık:"
+
+msgid "Popular content by"
+msgstr "Sizin Popüler İçerik"
+
+msgid "Visits"
+msgstr "Ziyaretler"
+
+msgid "Likes"
+msgstr "Beğeniler"
+
+msgid "Users rating"
+msgstr "Üye Puanları"
+
+msgid "IMDb rating"
+msgstr "IMDB Puanı"
+
+msgid "TMDb rating"
+msgstr "TMDb Puanı"
+
+msgid "Layout style"
+msgstr ""
+
+msgid "Style 1 - image Backdrop"
+msgstr ""
+
+msgid "Style 2 - image Poster"
+msgstr ""
+
+msgid "Style 3 - no image"
+msgstr ""
+
+msgid "Items number"
+msgstr ""
+
+msgid "Dooplay - Socialbox"
+msgstr ""
+
+msgid "Displays links to social networks in a stylish manner"
+msgstr ""
+
+msgid "Insert the URLs to your social networks"
+msgstr ""
+
+msgid "DooPlay - Sidebar content"
+msgstr ""
+
+msgid "A widget to show content in the sidebar"
+msgstr ""
+
+msgid "Descending"
+msgstr ""
+
+msgid "Ascending"
+msgstr ""
+
+msgid "Activate random order"
+msgstr ""
+
+msgid "DooPlay - Sidebar related content"
+msgstr ""
+
+msgid "A widget to show related content in the sidebar"
+msgstr ""
+
+msgid "Content order"
+msgstr ""
+
+msgid "See all movies"
+msgstr ""
+
+msgid "TVShows"
+msgstr "Diziler"
+
+msgid "See all tvshows"
+msgstr "Tüm diziler"
+
+msgid "See all seasons"
+msgstr "Tüm sezonları gör"
+
+msgid "See all episodes"
+msgstr "Tüm bölümler"
+
+msgid "Generate data of themoviedb.org"
+msgstr "Themoviedb.org'dan veri oluştur"
+
+msgid "Please wait, loading data..."
+msgstr "Lütfen bekleyin, veri yükleniyor .."
+
+msgid "Generate data of imdb.com"
+msgstr "Imdb.com verilerinin üretilmesi"
+
+msgid "Import"
+msgstr "İçeri aktar"
+
+msgid "Loading.."
+msgstr "Yükleniyor.."
+
+msgid "0.5 seconds"
+msgstr "0.5 Saniye"
+
+msgid "1 second"
+msgstr "1 saniye"
+
+msgid "1.5 seconds"
+msgstr "1.5 Saniye"
+
+msgid "10"
+msgstr "10"
+
+msgid "2 seconds"
+msgstr "2 saniye"
+
+msgid "2.5 seconds"
+msgstr "2.5 Saniye"
+
+msgid "20"
+msgstr "20"
+
+msgid "3 seconds"
+msgstr "3 Saniye"
+
+msgid "3.5 seconds"
+msgstr "3.5 Saniye"
+
+msgid "4 seconds"
+msgstr "4 Saniye"
+
+msgid "465"
+msgstr "465"
+
+msgid "<code>[module-episodes]</code> Usage shortcode."
+msgstr ""
+
+msgid "<code>[module-movies]</code> Usage shortcode."
+msgstr ""
+
+msgid "<code>[module-seasons]</code> Usage shortcode."
+msgstr ""
+
+msgid "<code>[module-slider]</code> Usage shortcode."
+msgstr ""
+
+msgid "<code>[module-tvshows]</code> Usage shortcode."
+msgstr ""
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>cast</strong>/andrew-lincoln/"
+msgstr ""
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>creator</strong>/frank-darabont/"
+msgstr ""
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>director</strong>/george-lucas/"
+msgstr ""
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>episodes</strong>/arrow-1x1/"
+msgstr ""
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>genre</strong>/action/"
+msgstr ""
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>guest-star</strong>/emma-bell/"
+msgstr ""
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>links</strong>/49026/"
+msgstr ""
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>movies</strong>/titanic/"
+msgstr ""
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>network</strong>/amc/"
+msgstr ""
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>protagonist</strong>/andrew-lincoln/"
+msgstr ""
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>release</strong>/2016/"
+msgstr ""
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>seasons</strong>/arrow-season-1/"
+msgstr ""
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>studio</strong>/amc-studios/"
+msgstr ""
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>tvshows</strong>/arrow/"
+msgstr ""
+
+msgid "<strong>IMPORTANT:</strong> You can only use the following shortcodes, in the order of your preference"
+msgstr ""
+
+msgid "API Language"
+msgstr ""
+
+msgid "API control"
+msgstr ""
+
+msgid "APP ID"
+msgstr ""
+
+msgid "APP language"
+msgstr ""
+
+msgid "Account user page"
+msgstr ""
+
+msgid "Activate Slider"
+msgstr ""
+
+msgid "Activate post links"
+msgstr ""
+
+msgid "Add comma separated values"
+msgstr ""
+
+msgid ""
+"Add modular Shortcodes and configure your home page<br> <a href=\"https://doothemes.com/forums/topic/12-"
+"homepage-modular/\" target=\"_blank\">more info</a>"
+msgstr ""
+
+msgid "Add the API key in the text box"
+msgstr ""
+
+msgid "Add title to show"
+msgstr ""
+
+msgid "Add user or user ID to manage comments"
+msgstr "Yorumları yönetmek için kullanıcı veya kullanıcı kimliği ekleyin"
+
+msgid "Add your community shortname <a href=\"https://disqus.com/\" target=\"_blank\">Disqus</a>"
+msgstr ""
+
+msgid "Admin logo"
+msgstr ""
+
+msgid "Admin user"
+msgstr ""
+
+msgid "Afrikaans"
+msgstr ""
+
+msgid "Akan"
+msgstr ""
+
+msgid "Albanian"
+msgstr ""
+
+msgid "Alexa Verification ID"
+msgstr ""
+
+msgid "Amharic"
+msgstr ""
+
+msgid "Arabic"
+msgstr ""
+
+msgid "Armenian"
+msgstr ""
+
+msgid "Assamese"
+msgstr ""
+
+msgid "Assign SMTP port"
+msgstr ""
+
+msgid "Assign SMTP username"
+msgstr ""
+
+msgid "Auto play Slider"
+msgstr ""
+
+msgid "Autoplay Slider"
+msgstr ""
+
+msgid "Autoplay Slider Movies"
+msgstr ""
+
+msgid "Autoplay Slider TVShows"
+msgstr ""
+
+msgid "Autoplay slider control"
+msgstr ""
+
+msgid "Aymara"
+msgstr ""
+
+msgid "Azerbaijani"
+msgstr ""
+
+msgid "Basque"
+msgstr ""
+
+msgid "Belarusian"
+msgstr ""
+
+msgid "Bengali"
+msgstr ""
+
+msgid "Bing Webmaster Tools"
+msgstr ""
+
+msgid "Bosnian"
+msgstr ""
+
+msgid "Breton"
+msgstr ""
+
+msgid "Bulgarian"
+msgstr ""
+
+msgid "Burmese"
+msgstr ""
+
+msgid "Catalan"
+msgstr ""
+
+msgid "Cebuano"
+msgstr ""
+
+msgid "Check to display content in random order"
+msgstr ""
+
+msgid "Check to enable"
+msgstr ""
+
+msgid "Check to enable auto-play slider."
+msgstr ""
+
+msgid "Check to enable module"
+msgstr ""
+
+msgid "Check to enable option."
+msgstr ""
+
+msgid "Check to enable the API"
+msgstr ""
+
+msgid "Check to enable."
+msgstr ""
+
+msgid "Cherokee"
+msgstr ""
+
+msgid "Chewa"
+msgstr ""
+
+msgid "Chinese"
+msgstr ""
+
+msgid "Choose the color for the comment block"
+msgstr ""
+
+msgid "Classical Greek"
+msgstr ""
+
+msgid "Code integrations"
+msgstr ""
+
+msgid "Color Scheme"
+msgstr ""
+
+msgid "Comments"
+msgstr "Yorumlar"
+
+msgid "Comments default"
+msgstr "Varsayılan yorumlar"
+
+msgid "Configuration"
+msgstr ""
+
+msgid "Configure an SMTP server to send e verified in WordPress"
+msgstr ""
+
+msgid "Configure pages"
+msgstr ""
+
+msgid "Corsican"
+msgstr ""
+
+msgid "Countdown"
+msgstr ""
+
+msgid "Croatian"
+msgstr ""
+
+msgid "Customize logos"
+msgstr ""
+
+msgid "Czech"
+msgstr ""
+
+msgid "Danish"
+msgstr ""
+
+msgid "Dark Style"
+msgstr ""
+
+msgid "Dark color"
+msgstr ""
+
+msgid "Default style"
+msgstr ""
+
+msgid "Define timeout for redirect links"
+msgstr ""
+
+msgid "Disqus"
+msgstr ""
+
+msgid "Disqus comments"
+msgstr "Disqus yorumları"
+
+msgid "Dutch"
+msgstr ""
+
+msgid "Dutch (Belgie)"
+msgstr ""
+
+msgid "Enable API TMDb"
+msgstr ""
+
+msgid "Enable Random order"
+msgstr ""
+
+msgid "Enable SMTP"
+msgstr ""
+
+msgid "Enable advanced method of sending emails, SMTP"
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "English (India)"
+msgstr ""
+
+msgid "English (Pirate)"
+msgstr ""
+
+msgid "English (UK)"
+msgstr ""
+
+msgid "English (US)"
+msgstr ""
+
+msgid "English (Upside Down)"
+msgstr ""
+
+msgid ""
+"Enter the code which you need to place <strong>before closing tag.</strong> (ex: Google Webmaster Tools "
+"verification, Bing Webmaster Center, BuySellAds Script, Alexa verification etc.)"
+msgstr ""
+
+msgid ""
+"Enter the codes which you need to place in your footer. (ex: Google Analytics, Clicky, STATCOUNTER, Woopra, "
+"Histats, etc.)"
+msgstr ""
+
+msgid "Esperanto"
+msgstr ""
+
+msgid "Estonian"
+msgstr ""
+
+msgid "Facebook comments"
+msgstr "Facebook yorumları"
+
+msgid "Faroese"
+msgstr ""
+
+msgid "Favicon"
+msgstr ""
+
+msgid "Filipino"
+msgstr ""
+
+msgid "Finnish"
+msgstr ""
+
+msgid "Footer code"
+msgstr ""
+
+msgid "French"
+msgstr ""
+
+msgid "French (Canada)"
+msgstr ""
+
+msgid "French (France)"
+msgstr ""
+
+msgid "Frisian"
+msgstr ""
+
+msgid "Fulah"
+msgstr ""
+
+msgid "Galician"
+msgstr ""
+
+msgid "Ganda"
+msgstr ""
+
+msgid "General Settings"
+msgstr "Genel Ayarlar"
+
+msgid "Generate genres"
+msgstr ""
+
+msgid "Genre"
+msgstr ""
+
+msgid "Georgian"
+msgstr ""
+
+msgid "German"
+msgstr ""
+
+msgid "Google Analytics"
+msgstr ""
+
+msgid "Google Search Console"
+msgstr ""
+
+msgid "Greek"
+msgstr ""
+
+msgid "Guarani"
+msgstr ""
+
+msgid "Gujarati"
+msgstr ""
+
+msgid "Hausa"
+msgstr ""
+
+msgid "Header code"
+msgstr ""
+
+msgid "Hebrew"
+msgstr ""
+
+msgid "Hindi"
+msgstr ""
+
+msgid "Home modules"
+msgstr ""
+
+msgid "Host"
+msgstr ""
+
+msgid "Hungarian"
+msgstr ""
+
+msgid "Icelandic"
+msgstr ""
+
+msgid "Igbo"
+msgstr ""
+
+msgid "Important to establish the connection to the server"
+msgstr ""
+
+msgid "Indonesian"
+msgstr ""
+
+msgid "Insert tracking code to use this function"
+msgstr ""
+
+msgid ""
+"Insert you Facebook app id here. If you don't have one for your webpage you can create it <a href=\"https://"
+"developers.facebook.com/apps/\" target=\"_blank\">here</a>"
+msgstr ""
+
+msgid "Irish"
+msgstr ""
+
+msgid "It is important to correctly configure these fields, the API will allow us to generate content quickly."
+msgstr ""
+
+msgid "Italian"
+msgstr ""
+
+msgid "Japanese"
+msgstr ""
+
+msgid "Japanese (Kansai)"
+msgstr ""
+
+msgid "Javanese"
+msgstr ""
+
+msgid "Kannada"
+msgstr ""
+
+msgid "Kazakh"
+msgstr ""
+
+msgid "Khmer"
+msgstr ""
+
+msgid "Kinyarwanda"
+msgstr ""
+
+msgid "Klingon"
+msgstr ""
+
+msgid "Korean"
+msgstr ""
+
+msgid "Kurdish (Kurmanji)"
+msgstr ""
+
+msgid "Kyrgyz"
+msgstr ""
+
+msgid "Languages to add links"
+msgstr ""
+
+msgid "Lao"
+msgstr ""
+
+msgid "Latin"
+msgstr ""
+
+msgid "Latvian"
+msgstr ""
+
+msgid "Leet Speak"
+msgstr ""
+
+msgid "Light color"
+msgstr ""
+
+msgid "Limburgish"
+msgstr ""
+
+msgid "Lingala"
+msgstr ""
+
+msgid "Lithuanian"
+msgstr ""
+
+msgid "Logo Image"
+msgstr ""
+
+msgid "Macedonian"
+msgstr ""
+
+msgid "Malagasy"
+msgstr ""
+
+msgid "Malay"
+msgstr ""
+
+msgid "Malayalam"
+msgstr ""
+
+msgid "Maltese"
+msgstr ""
+
+msgid "Maori"
+msgstr ""
+
+msgid "Marathi"
+msgstr ""
+
+msgid "Module Title"
+msgstr ""
+
+msgid "Module control"
+msgstr ""
+
+msgid "Module episodes"
+msgstr ""
+
+msgid "Module movies"
+msgstr ""
+
+msgid "Module seasons"
+msgstr ""
+
+msgid "Module slider"
+msgstr ""
+
+msgid "Module tvshows"
+msgstr ""
+
+msgid "Mongolian"
+msgstr ""
+
+msgid "Most view page"
+msgstr ""
+
+msgid "Ndebele"
+msgstr ""
+
+msgid "Nepali"
+msgstr ""
+
+msgid "Network"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Northern Sami"
+msgstr ""
+
+msgid "Norwegian (bokmal)"
+msgstr ""
+
+msgid "Norwegian (nynorsk)"
+msgstr ""
+
+msgid "Number of comments"
+msgstr "Yorum sayısı"
+
+msgid "Number of items to show"
+msgstr ""
+
+msgid "Optimizing URL Slugs"
+msgstr ""
+
+msgid "Oriya"
+msgstr ""
+
+msgid "Pashto"
+msgstr ""
+
+msgid "Password"
+msgstr "Parola"
+
+msgid "Persian"
+msgstr ""
+
+msgid "Plain text"
+msgstr ""
+
+msgid "Polish"
+msgstr ""
+
+msgid "Port"
+msgstr ""
+
+msgid "Portuguese"
+msgstr ""
+
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+msgid "Post links"
+msgstr ""
+
+msgid "Protagonist"
+msgstr ""
+
+msgid "Protocol"
+msgstr ""
+
+msgid "Publish"
+msgstr ""
+
+msgid "Punjabi"
+msgstr ""
+
+msgid "Quechua"
+msgstr ""
+
+msgid "Random order"
+msgstr ""
+
+msgid "Rating page"
+msgstr ""
+
+msgid "Release"
+msgstr ""
+
+msgid "Resolutions quality to add links"
+msgstr ""
+
+msgid "Review pending"
+msgstr ""
+
+msgid "Romanian"
+msgstr ""
+
+msgid "Romansh"
+msgstr ""
+
+msgid "Russian"
+msgstr ""
+
+msgid "SMTP From email"
+msgstr ""
+
+msgid "SMTP From name"
+msgstr ""
+
+msgid "SSL"
+msgstr ""
+
+msgid "Sanskrit"
+msgstr ""
+
+msgid "Sardinian"
+msgstr ""
+
+msgid "Select language"
+msgstr ""
+
+msgid "Select language for the app of facebook"
+msgstr ""
+
+msgid "Select number of comments to display "
+msgstr "Görüntülenecek yorumların sayısını seçin"
+
+msgid "Select protocol Shipping"
+msgstr ""
+
+msgid "Select publishing status for links."
+msgstr ""
+
+msgid "Select relevant page"
+msgstr ""
+
+msgid "Select speed slider in secons"
+msgstr ""
+
+msgid "Select the default commenting system"
+msgstr ""
+
+msgid "Serbian"
+msgstr ""
+
+msgid "Set SMTP server"
+msgstr ""
+
+msgid ""
+"Set your API on <a href=\"https://www.themoviedb.org/account/\" target=\"_blank\">Themoviedb.org API</a>"
+msgstr ""
+
+msgid "Shona"
+msgstr ""
+
+msgid "Shorname Disqus"
+msgstr ""
+
+msgid "Shortcode console"
+msgstr ""
+
+msgid "Silesian"
+msgstr ""
+
+msgid "Simplified Chinese (China)"
+msgstr ""
+
+msgid "Sinhala"
+msgstr ""
+
+msgid "Site verification"
+msgstr ""
+
+msgid "Slovak"
+msgstr ""
+
+msgid "Slovenian"
+msgstr ""
+
+msgid "Social integrations"
+msgstr ""
+
+msgid "Somali"
+msgstr ""
+
+msgid "Sorani Kurdish"
+msgstr ""
+
+msgid "Spanish"
+msgstr ""
+
+msgid "Spanish (Chile)"
+msgstr ""
+
+msgid "Spanish (Colombia)"
+msgstr ""
+
+msgid "Spanish (Latin America)"
+msgstr ""
+
+msgid "Spanish (Mexico)"
+msgstr ""
+
+msgid "Spanish (Spain)"
+msgstr ""
+
+msgid "Spanish (Venezuela)"
+msgstr ""
+
+msgid "Speed Slider"
+msgstr ""
+
+msgid "Status post"
+msgstr ""
+
+msgid "Swahili"
+msgstr ""
+
+msgid "Swedish"
+msgstr ""
+
+msgid "Syriac"
+msgstr ""
+
+msgid "TLS"
+msgstr ""
+
+msgid "TMDb API"
+msgstr ""
+
+msgid "TMDb API key"
+msgstr ""
+
+msgid "Tajik"
+msgstr ""
+
+msgid "Tamazight"
+msgstr ""
+
+msgid "Tamil"
+msgstr ""
+
+msgid "Tatar"
+msgstr ""
+
+msgid "Telugu"
+msgstr ""
+
+msgid "Thai"
+msgstr ""
+
+msgid "Traditional Chinese (Hong Kong)"
+msgstr ""
+
+msgid "Traditional Chinese (Taiwan)"
+msgstr ""
+
+msgid "Turkish"
+msgstr ""
+
+msgid "Turkmen"
+msgstr ""
+
+msgid "UA-45182606-12"
+msgstr ""
+
+msgid "Ukrainian"
+msgstr ""
+
+msgid "Upload a 16 x 16 px image that will represent your website's favicon"
+msgstr ""
+
+msgid "Upload poster image"
+msgstr ""
+
+msgid "Upload your logo for wp-admin login, using the Upload Button or insert image URL"
+msgstr ""
+
+msgid "Upload your logo using the Upload Button or insert image URL"
+msgstr ""
+
+msgid "Urdu"
+msgstr ""
+
+msgid "Username"
+msgstr "Kullanıcı Adı"
+
+msgid "Uzbek"
+msgstr ""
+
+msgid "Verification settings <a href=\"https://www.alexa.com/siteowners/claim/\" target=\"_blank\">here</a>"
+msgstr ""
+
+msgid "Verification settings <a href=\"https://www.bing.com/toolbox/webmaster/\" target=\"_blank\">here</a>"
+msgstr ""
+
+msgid ""
+"Verification settings <a href=\"https://www.google.com/webmasters/verification/\" target=\"_blank\">here</a>"
+msgstr ""
+
+msgid ""
+"Verification settings <a href=\"https://yandex.com/support/webmaster/service/rights.xml#how-to\" target="
+"\"_blank\">here</a>"
+msgstr ""
+
+msgid "Vietnamese"
+msgstr ""
+
+msgid "WP SMTP mail"
+msgstr ""
+
+msgid ""
+"We recommend setting these fields to moderate the comments facebook, <a href=\"https://developers.facebook."
+"com/docs/plugins/comments\" target=\"_blank\">more info</a> "
+msgstr ""
+"Yorumların facebook'unu ortalamak için bu alanları ayarlamanızı öneririz, <a href=\"https://developers."
+"facebook.com/docs/plugins/comments\" target=\"_blank\">Daha fazla bilgi</a>"
+
+msgid "Welsh"
+msgstr ""
+
+msgid "Wolof"
+msgstr ""
+
+msgid "WordPress"
+msgstr ""
+
+msgid "Xhosa"
+msgstr ""
+
+msgid "Yandex Webmaster Tools"
+msgstr ""
+
+msgid "Yiddish"
+msgstr ""
+
+msgid "Yoruba"
+msgstr ""
+
+msgid "Zazaki"
+msgstr ""
+
+msgid "Zulu"
+msgstr ""
+
+msgid "[module]"
+msgstr ""
+
+msgid "cast"
+msgstr "Oyuncular"
+
+msgid "creator"
+msgstr "Senarist"
+
+msgid "director"
+msgstr "Yönetmen"
+
+msgid "episodes"
+msgstr "Bölümler"
+
+msgid "from_mail@yourwebsite.com"
+msgstr ""
+
+msgid "genre"
+msgstr "tür"
+
+msgid "guest-star"
+msgstr "Misafir Oyuncu"
+
+msgid "links"
+msgstr "Altyazılar"
+
+msgid "movies"
+msgstr "filmler"
+
+msgid "network"
+msgstr "kanal"
+
+msgid "protagonist"
+msgstr "kahramanlar"
+
+msgid "release"
+msgstr "Yayın Tarihi:"
+
+msgid "seasons"
+msgstr "sezonlar"
+
+msgid "smtp.gmail.com"
+msgstr ""
+
+msgid "studio"
+msgstr "Stüdyo"
+
+msgid "tvshows"
+msgstr "diziler"
+
+msgid "username_smtp@yourwebsite.com"
+msgstr ""
+
+msgid "Changelog"
+msgstr ""
+
+msgid "Documentation"
+msgstr ""
+
+msgid "Invalid license, it is possible that some of the options may not work correctly"
+msgstr ""
+
+msgid "Remove"
+msgstr "Kaldır"
+
+msgid "Save changes"
+msgstr ""
+
+msgid "Support forum"
+msgstr ""
+
+msgid "quality"
+msgstr ""
+
+msgid "<strong>Example:</strong> yourwebsite.com/<strong>quality</strong>/1080p/"
+msgstr ""
+
+msgid "Select the default color scheme"
+msgstr ""
+
+msgid "Dark style"
+msgstr ""
+
+msgid "White style"
+msgstr ""
+
+msgid "jQuery version"
+msgstr ""
+
+msgid "Select jQuery version"
+msgstr ""
+
+msgid "My website"
+msgstr ""
+
+msgid "WordPress Controls"
+msgstr ""
+
+msgid "Emoji disable"
+msgstr ""
+
+msgid "User toolbar disable"
+msgstr ""
+
+msgid "Check to disable"
+msgstr ""
+
+msgid "Page"
+msgstr ""
+
+msgid "of"
+msgstr ""
+
+msgid "season x episode"
+msgstr "sezon x bolum"
+
+msgid "season"
+msgstr "sezon"
+
+msgid "placeholder"
+msgstr ""
+
+msgid "no data"
+msgstr ""
+
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+msgid "You do not like anything yet."
+msgstr ""
+
+msgid "Watch online"
+msgstr ""
+
+msgid "Video Player"
+msgstr ""
+
+msgid "User vote deleted"
+msgstr ""
+
+msgid "User registration"
+msgstr ""
+
+msgid "Unlike"
+msgstr ""
+
+msgid "URL source"
+msgstr "Kaynak URL"
+
+msgid "URL Link"
+msgstr "URL Altyazı"
+
+msgid "Title"
+msgstr "Başlık"
+
+msgid "Thanks for your vote!"
+msgstr ""
+
+msgid "Sending link.."
+msgstr "Altyazı Ekleniyor"
+
+msgid "Select quality"
+msgstr "Kalite seç"
+
+msgid "Release Year"
+msgstr "Yayın Tarihi"
+
+msgid "Register"
+msgstr "Kayıt OL"
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Post per page"
+msgstr ""
+
+msgid "Only Key"
+msgstr ""
+
+msgid "Not permitted"
+msgstr ""
+
+msgid "No content on your list."
+msgstr ""
+
+msgid "No content"
+msgstr ""
+
+msgid "Newer Comments &rarr;"
+msgstr "Yeni Yorumlar &rarr;"
+
+msgid "My list"
+msgstr "Listeme ekle"
+
+msgid "Most Viewd"
+msgstr ""
+
+msgid "Min."
+msgstr ""
+
+msgid "Log in to vote"
+msgstr "Oy vermek için giriş Yap"
+
+msgid "Link sent, updating page ..."
+msgstr "Altyazı Gönderildi, Sayfa Yeniden Yükleniyor Lütfen Bekleyin"
+
+msgid "Like"
+msgstr ""
+
+msgid "Last name"
+msgstr "Soyisim"
+
+msgid "Item title"
+msgstr "Öğe Başlığı"
+
+msgid "In my list"
+msgstr "Listemde"
+
+msgid "Iframe HTML"
+msgstr ""
+
+msgid "Home"
+msgstr "Ana Sayfa"
+
+msgid "First name"
+msgstr "İsim"
+
+msgid "Favorites"
+msgstr "Favoriler"
+
+msgid "Edit profile"
+msgstr "Profili düzenle"
+
+msgid "Download"
+msgstr "İndir"
+
+msgid "Copy the digits from the image into this text box"
+msgstr "Resimdeki basamakları bu metin kutusuna kopyalayın"
+
+msgid "Content type"
+msgstr "Tablonuz için içerik türünü seçin."
+
+msgid "Content published"
+msgstr "Yayınlanan içerik"
+
+msgid "Config home page"
+msgstr "Anasayfa"
+
+msgid "Complete register!"
+msgstr "Kayıt tamamlandı!"
+
+msgid "Comments are closed."
+msgstr "Yoruma Kapalı"
+
+msgid "Coming soon"
+msgstr "Çok yakında"
+
+msgid "Add new player"
+msgstr "Yeni player ekle"
+
+msgid "Add content"
+msgstr "İçerik ekle"
+
+msgid ""
+"<strong>Disqus:</strong> add shortname your comunity, <a href=\"https://help.disqus.com/customer/portal/"
+"articles/466208-what-s-a-shortname-\" target=\"_blank\">more info</a>"
+msgstr ""
+
+msgid "0"
+msgstr ""
+
+msgid "&larr; Older Comments"
+msgstr "&larr; Eski Yorumlar"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%1$s"
+msgstr "%1$s"
+
+msgid "Security Check"
+msgstr "Güvenlik kontrolü"
+
+msgid "My account"
+msgstr "Hesabım"
+
+msgid "Select publication status the content generated by the API."
+msgstr ""
+
+msgid "Movies post status"
+msgstr "Film yayın durumu"
+
+msgid "TV Shows post status"
+msgstr "Dizi yayın durumu"
+
+msgid "Seasons post status"
+msgstr "Sezon yayın durumu"
+
+msgid "Episodes post status"
+msgstr "Bölüm yayın durumu"
+
+msgid "Draft"
+msgstr "Taslak"
+
+msgid "Pending"
+msgstr "Bekliyor"
+
+msgid "Private"
+msgstr "Özel"
+
+msgid "Trash"
+msgstr "Sil"
+
+msgid "Control generated content"
+msgstr "Üretilen içeriği kontrol et"
+
+msgid "Images and trailer"
+msgstr "Resimler ve Fragman"
+
+msgid "Add url image"
+msgstr "Resim url si ekleyin"
+
+msgid "Backdrops"
+msgstr ""
+
+msgid "Place each image url below another"
+msgstr "Perde arkası - Her resim URL'sini bir başka alanın altına yerleştirin"
+
+msgid "Add id Youtube video"
+msgstr "Youtube Video ID"
+
+msgid "Generate data from <strong>imdb.com</strong>"
+msgstr "Şuradan veri üret <strong>imdb.com</strong>"
+
+msgid "E.g. http://www.imdb.com/title/<strong>tt2911666</strong>/"
+msgstr "E.g. http://www.imdb.com/title/<strong>tt2911666</strong>/"
+
+msgid "Update data"
+msgstr "Verileri güncelle"
+
+msgid "Average / votes"
+msgstr "Ortalama / oy"
+
+msgid "Themoviedb.org data"
+msgstr "Themoviedb.org veri"
+
+msgid "IMDb.com data"
+msgstr "IMDB.com veri"
+
+msgid "Generate data"
+msgstr "Veri oluştur"
+
+msgid "Generate data from <strong>themoviedb.org</strong>"
+msgstr "Şuradan veri üret <strong>themoviedb.org</strong>"
+
+msgid "More data"
+msgstr "Daha fazla veri"
+
+msgid "Content total posted"
+msgstr "toplam yorum sayısı"
+
+msgid "E.g. https://www.themoviedb.org/tv/<strong>1402</strong>-the-walking-dead"
+msgstr ""
+
+msgid "Serie name"
+msgstr "Dizi adı"
+
+msgid "Episode title"
+msgstr "Bölüm başlığı"
+
+msgid "See all"
+msgstr "Hepsini gör"
+
+msgid "Import demo data"
+msgstr "Demo verilerini içe aktarın"
+
+msgid "Demo already imported"
+msgstr "Demo zaten içeri aktarılmış"
+
+msgid "Necessary requirements"
+msgstr ""
+
+msgid "Install of WordPress clean."
+msgstr ""
+
+msgid "Valid license."
+msgstr ""
+
+msgid "Do not create any menu to complete the import."
+msgstr ""
+
+msgid "Remove all added content."
+msgstr ""
+
+msgid "Please click import only once and wait, it can take a couple of minutes."
+msgstr ""
+
+msgid "Before you begin, make sure all the required plugins are activated."
+msgstr ""
+
+msgid "Import Again"
+msgstr ""
+
+msgid "Import Demo Data"
+msgstr ""
+
+msgid "This process can take several minutes to complete."
+msgstr ""
+
+msgid "The XML file containing the dummy content is not available or could not be read."
+msgstr ""
+
+msgid "All done."
+msgstr ""
+
+msgid "Have fun!"
+msgstr ""
+
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+msgid "Sorry, there has been an error."
+msgstr ""
+
+msgid "Choose an option"
+msgstr ""
+
+msgid "Basic info"
+msgstr ""
+
+msgid "SEO Features"
+msgstr ""
+
+msgid "Basic SEO"
+msgstr ""
+
+msgid ""
+"Uncheck this to disable SEO features in the theme, highly recommended if you use any other SEO plugin, that "
+"way the theme's SEO features won't conflict with the plugin."
+msgstr ""
+
+msgid "Site info"
+msgstr ""
+
+msgid "Alternative name"
+msgstr ""
+
+msgid "Main keywords"
+msgstr ""
+
+msgid "add main keywords for site info"
+msgstr ""
+
+msgid "Meta description"
+msgstr "Meta Açıklaması"
+
+msgid "Your company"
+msgstr ""
+
+msgid "Company name"
+msgstr ""
+
+msgid "Company logo"
+msgstr ""
+
+msgid "Trending"
+msgstr "Trendler"
+
+msgid "Ratings"
+msgstr "Oylananlar"
+
+msgid "My favorites"
+msgstr "Favorilerim"
+
+msgid "Contact"
+msgstr "İletişim"
+
+msgid "Allow user register"
+msgstr "Kullanıcı kaydına izin ver"
+
+msgid "Published date"
+msgstr "Yayınlanma tarihi"
+
+msgid "<strong>\"Published date\"</strong> this option will only effect from the data importer in front-end."
+msgstr ""
+
+msgid "Actual date (default)"
+msgstr ""
+
+msgid "Release date"
+msgstr "Yayın Tarihi"
+
+msgid "select type of date of publication"
+msgstr "Yayın türünü seçin"
+
+msgid "previous episode"
+msgstr "Önceki Bölüm"
+
+msgid "episodes list"
+msgstr "Bölüm Listesi"
+
+msgid "next episode"
+msgstr "Sonraki bölüm"
+
+msgid "Browse"
+msgstr "Gözat"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Edit account"
+msgstr "Hesabımı düzenle"
+
+msgid "My Movies"
+msgstr "Filmlerim"
+
+msgid "My TV Shows"
+msgstr "Dizilerim"
+
+msgid "Reset"
+msgstr "Sıfırla"
+
+msgid "Log in"
+msgstr "Giriş Yap"
+
+msgid "Sign up"
+msgstr "Kaydol"
+
+msgid "Stay logged in"
+msgstr "beni hatırla"
+
+msgid "Security check"
+msgstr "Güvenlik kontrolü"
+
+msgid "please do not skip this step, it is important."
+msgstr "Lütfen bu adımı atlamayın, bu önemlidir."
+
+msgid "Do you already have an account?"
+msgstr "Zaten bir hesabınız var mı?"
+
+msgid "Login here"
+msgstr "Buradan giriş yapın"
+
+msgid "Don't you have an account yet?"
+msgstr "Hala bir hesabınız yok mu?"
+
+msgid "Sign up here"
+msgstr "Buradan üye olun"
+
+msgid "I forgot my password"
+msgstr "Şifremi Unuttum"
+
+msgid "E-mail address"
+msgstr "E-posta Adresi"
+
+msgid "FAILED: Try again!"
+msgstr "Tekrar dene!"
+
+msgid "Generating data.."
+msgstr "Veri Oluşturuluyor"
+
+msgid "Sign up, it's free.."
+msgstr "Kaydol, Tamamen Ücretsizdir"
+
+msgid "General account information"
+msgstr "Genel hesap bilgileri"
+
+msgid "The passwords you entered do not match.  Your password was not updated."
+msgstr "Girdiğiniz parolalar uyuşmuyor. Parolanız güncellenmedi."
+
+msgid "The Email you entered is not valid.  please try again."
+msgstr "Girdiğiniz e-posta geçerli değil. lütfen tekrar deneyin."
+
+msgid "This email is already used by another user.  try a different one."
+msgstr "Bu e-posta zaten başka bir kullanıcı tarafından kullanılıyor. Farklı bire-posta deneyin."
+
+msgid "You must be logged in to edit your profile."
+msgstr "Profilinizi düzenmelemek için giriş yapmalısınız."
+
+msgid "Your profile has been updated."
+msgstr "Profiliniz başarıyla güncellendi."
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Display name publicly as"
+msgstr "Üyelerimizin Göreceği Bir İsim Seçin"
+
+msgid "Password *"
+msgstr "Şifre *"
+
+msgid "Repeat Password *"
+msgstr "Şifreyi tekrar girin *"
+
+msgid "Update account"
+msgstr "Ayarları Kaydet"
+
+msgid "A username is required for registration."
+msgstr "Kayıt İçin Bir Kullanıcı Adı Gereklidir"
+
+msgid "Sorry, that username already exists!"
+msgstr "Maalesef, kullanıcı adı daha önceden alınmış."
+
+msgid "You must enter a valid email address."
+msgstr "Geçerli bir e-posta adresi girmelisin."
+
+msgid "Sorry, that email address is already used!"
+msgstr "Üzgünüz, bu e-posta adresi zaten kullanılıyor!"
+
+msgid "Thank you for registering"
+msgstr "Kayıt olduğunuz için teşekkürler"
+
+msgid "Welcome to {sitename}"
+msgstr "{sitename} Hoşgeldiniz"
+
+msgid "<strong>NOTE:</strong> You can use these tags to personalize your welcome message in sign up."
+msgstr ""
+"<strong>NOT:</strong> Hoş geldiniz mesajınızı kaydolurken kişiselleştirmek için bu etiketleri "
+"kullanabilirsiniz."
+
+msgid "Welcome message"
+msgstr "Hoş geldin Mesajı"
+
+msgid "Use plain text only."
+msgstr ""
+
+msgid "Hello {first_name}, welcome to {sitename}."
+msgstr ""
+
+msgid "Change password"
+msgstr "Parola Değiştir ( Değiştirmek isterseniz doldurun)"
+
+msgid "No content available on your list."
+msgstr "Listenizde içerik yok."
+
+msgid "Who can post links"
+msgstr "Kimler ileti gönderebilir"
+
+msgid "Anyone"
+msgstr "Herhangi biri"
+
+msgid "Only admin"
+msgstr "Sadece yönetici"
+
+msgid "Registration required"
+msgstr "Kayıt Gerekli"
+
+msgid "Select who can post links on your website."
+msgstr "Kimler ileti gönderebilir"
+
+msgid "Seconds"
+msgstr "Saniye"
+
+msgid "Please wait, redirecting page.."
+msgstr "Lütfen bekleyin, Yönlendiriliyorsunuz"
+
+msgid "Contact Form"
+msgstr "İletişim Formu"
+
+msgid "Subject"
+msgstr "Konu"
+
+msgid "How can we help?"
+msgstr "Nasıl yardımcı olabilir? (telif hakkı, istek, öneri, şikayet)"
+
+msgid "Your message"
+msgstr "Mesajınız"
+
+msgid "The more descriptive you can be the better we can help."
+msgstr ""
+"Size en iyi şekilde yardımcı olabilmemiz için isteğinizi veya önerinizi açıklayıcı bir şekilde anlatmanızı "
+"rica ediyoruz."
+
+msgid "Link Reference (optional)"
+msgstr "Referans (isteğe bağlı)"
+
+msgid "Verification code"
+msgstr "Doğrulama kodu"
+
+msgid "If you can't read the text, click on the image to redraw."
+msgstr "** Öne çıkan içerik yapmak için Resmin üzerine çift tıklayınız"
+
+msgid "Send message"
+msgstr "Gönder"
+
+msgid "Ad spot / home module"
+msgstr "Reklam spot / home modülü"
+
+msgid "Ads Home module"
+msgstr "Ana Sayfa Şablonu"
+
+msgid "Use HTML code"
+msgstr "HTML Kod Kullan"
+
+msgid "Ad spot / redirecting links"
+msgstr ""
+
+msgid "Ad 300x250 pixels"
+msgstr ""
+
+msgid "Ad 468x60 pixels"
+msgstr ""
+
+msgid "Ad spot / single"
+msgstr ""
+
+msgid "Ad single"
+msgstr ""
+
+msgid "Display ad"
+msgstr ""
+
+msgid "Check to enable ads"
+msgstr ""
+
+msgid "Settings saved."
+msgstr "Ayarlar Kaydedildi."
+
+msgid "Have something to notify our support team, please do not hesitate to use this form."
+msgstr "Destek ekibimize bildirimde bulunun, lütfen bu formu kullanmaktan çekinmeyin."
+
+msgid "Message sent, at any time one of our operators will contact you."
+msgstr ""
+
+msgid "Additional settings"
+msgstr ""
+
+msgid "Enable or disable"
+msgstr ""
+
+msgid "Auto-play video trailers"
+msgstr ""
+
+msgid "Check whether to activate or deactivate"
+msgstr ""
+
+msgid "Edit page content."
+msgstr ""
+
+msgid "Results"
+msgstr "Sonuçlar"
+
+msgid "Nothing Found"
+msgstr ""
+
+msgid "Enable similar titles"
+msgstr ""
+
+msgid "Search for"
+msgstr ""
+
+msgid "Not Found"
+msgstr "Bulunamadı"
+
+msgid "Width layout"
+msgstr ""
+
+msgid "1100px it is the ideal measured in pixels"
+msgstr ""
+
+msgid "Blog pages show at most"
+msgstr ""
+
+msgid "Post per page in blog"
+msgstr ""
+
+msgid "TOP IMDb items"
+msgstr ""
+
+msgid "Select the number of items to the page TOP IMDb"
+msgstr ""
+
+msgid "TOP IMDb"
+msgstr ""
+
+msgid "Module blog"
+msgstr ""
+
+msgid "Number of words"
+msgstr ""
+
+msgid "Number of words for describing the entry"
+msgstr ""
+
+msgid "<code>[module-list-entries-blog]</code> Usage shortcode."
+msgstr ""
+
+msgid "Module TOP IMDb"
+msgstr ""
+
+msgid "Select Layout"
+msgstr ""
+
+msgid "Movies and TV Shows"
+msgstr ""
+
+msgid "Only Movies"
+msgstr ""
+
+msgid "Only TV Shows"
+msgstr ""
+
+msgid "Select the type of module to display"
+msgstr ""
+
+msgid "<code>[module-top-imdb]</code> Usage shortcode."
+msgstr ""
+
+msgid "Results found:"
+msgstr ""
+
+msgid "No results to show with"
+msgstr ""
+
+msgid "Suggestions"
+msgstr ""
+
+msgid "Make sure all words are spelled correctly."
+msgstr ""
+
+msgid "Try different keywords."
+msgstr ""
+
+msgid "Try more general keywords."
+msgstr "Daha genel kelimeler deneyin."
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "TV"
+msgstr "Dizi"
+
+msgid "Post"
+msgstr "Yazı"
+
+msgid "requires a valid license to activate all functions."
+msgstr "Tüm işlevleri etkinleştirmek için geçerli bir lisans gerektirir."
+
+msgid "Activate license"
+msgstr ""
+
+msgid "Customer name"
+msgstr ""
+
+msgid "Customer email"
+msgstr ""
+
+msgid "Payment id"
+msgstr ""
+
+msgid "License limit"
+msgstr ""
+
+msgid "Site count"
+msgstr ""
+
+msgid "Activations left"
+msgstr ""
+
+msgid "Expires"
+msgstr ""
+
+msgid "My account in Doothemes"
+msgstr ""
+
+msgid "Deactivate license"
+msgstr ""
+
+msgid "Report bug"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Audio"
+msgstr ""
+
+msgid "Subtitle"
+msgstr "Altyazı"
+
+msgid "Not Synced"
+msgstr ""
+
+msgid "Wrong subtitle"
+msgstr ""
+
+msgid "Missing subtitle"
+msgstr ""
+
+msgid "Others"
+msgstr "Diğeri"
+
+msgid "There's no Audio"
+msgstr ""
+
+msgid "Broken"
+msgstr ""
+
+msgid "Wrong video"
+msgstr ""
+
+msgid "Please help us to describe the issue so we can fix it asap."
+msgstr ""
+
+msgid "Send report"
+msgstr ""
+
+msgid "Text message"
+msgstr ""
+
+msgid "Notification sent"
+msgstr ""
+
+msgid "Incorrect security code"
+msgstr ""
+
+msgid "Edit post"
+msgstr ""
+
+msgid "Permalink"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Views"
+msgstr ""
+
+msgid "Movie layout player"
+msgstr ""
+
+msgid "Big player"
+msgstr ""
+
+msgid "Small Player"
+msgstr ""
+
+msgid "Select layout player movie"
+msgstr ""
+
+msgid "click on ad to close"
+msgstr ""
+
+msgid "Ad"
+msgstr ""
+
+msgid "Player control"
+msgstr ""
+
+msgid "Block Ad in player"
+msgstr ""
+
+msgid "Turn off the lights"
+msgstr ""
+
+msgid "Report error"
+msgstr ""
+
+msgid "Show quality"
+msgstr ""
+
+msgid "Show views"
+msgstr ""
+
+msgid "Check options you want to display."
+msgstr ""
+
+msgid "Ad control"
+msgstr ""
+
+msgid "Ad in player"
+msgstr ""
+
+msgid "Hide ad after clicking"
+msgstr ""
+
+msgid "Hide ad"
+msgstr ""
+
+msgid "Time in seconds for show ad"
+msgstr ""
+
+msgid "Ad of 300*250 px"
+msgstr ""
+
+msgid "Tag Archives: %s"
+msgstr ""
+
+msgid "Category Archives: %s"
+msgstr ""
+
+msgid "Inappropriate"
+msgstr ""
+
+msgid "Very uncomfortable"
+msgstr ""
+
+msgid "Reports"
+msgstr ""
+
+msgid "Delete notice"
+msgstr ""
+
+msgid "Really you want to delete?"
+msgstr ""
+
+msgid "Activate Rows file size"
+msgstr ""
+
+msgid "Rows file size"
+msgstr ""
+
+msgid "Check to enable rows file size"
+msgstr ""
+
+msgid "File size"
+msgstr "Dosya Boyutu"
+
+msgid "Size"
+msgstr "Boyut"
+
+msgid "They sure have added content manually?"
+msgstr ""
+
+msgid "Seasons control"
+msgstr ""
+
+msgid "I generated episodes or add manually"
+msgstr ""
+
+msgid "I have generated seasons or I will manually"
+msgstr ""
+
+msgid "Episodes control"
+msgstr ""
+
+msgid "DooPlay: Permalink Settings"
+msgstr ""
+
+msgid "Flag Language"
+msgstr ""
+
+msgid "URL source or Shortcode"
+msgstr ""
+
+msgid "Add new row"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Minify HTML"
+msgstr ""
+
+msgid "Code comments"
+msgstr ""
+
+msgid "Relative domain"
+msgstr ""
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "Remove HTML, JavaScript and CSS comments, this option is typically safe to set to (Yes)"
+msgstr ""
+
+msgid "Remove XHTML closing tags from HTML5 void elements"
+msgstr ""
+
+msgid "Remove schemes (HTTP: and HTTPS:) from all URLs"
+msgstr ""
+
+msgid "Remove relative domain from internal URLs"
+msgstr ""
+
+msgid "Check duplicate content"
+msgstr ""
+
+msgid "This content already exists, we recommend not to publish."
+msgstr ""
+
+msgid "Excellent! this content is unique."
+msgstr ""
+
+msgid "Data were completed, check please"
+msgstr ""
+
+msgid "The data have been updated, check please"
+msgstr ""
+
+msgid "Thank you! link successfully sent, soon to be reviewed"
+msgstr ""
+
+msgid "Positions for sidebars"
+msgstr ""
+
+msgid "Homepage sidebar"
+msgstr ""
+
+msgid "Single sidebar"
+msgstr ""
+
+msgid "Autoplay Carousel"
+msgstr ""
+
+msgid "Speed Carousel"
+msgstr ""
+
+msgid "DooPlay - [widgetgenre] Genres"
+msgstr ""
+
+msgid "[widgetgenre] Genres"
+msgstr ""
+
+msgid "Only widgets for the genres in home modules."
+msgstr ""
+
+msgid "Sort content by genres"
+msgstr ""
+
+msgid "second"
+msgstr "saniye"
+
+msgid "seconds"
+msgstr "saniye"
+
+msgid "Error! invalid code"
+msgstr "Hata! Geçersiz Kod"
+
+msgid "Thank you! Your report was submitted.."
+msgstr "Teşekkürler! Rapor bildirimi incelenecektir."
+
+msgid "Please wait, sending data.."
+msgstr "Lütfen Bekleyin, Veri Gönderiliyor"
+
+msgid "Filter"
+msgstr "Sırala"
+
+msgid "Need Help?"
+msgstr "Yardım lazım mı?"
+
+msgid "Send us Feedback"
+msgstr "Bize Mail Gönderin"
+
+msgid "Get data from Themoviedb.org"
+msgstr "Veri çek (TMDb)"
+
+msgid "Get content"
+msgstr ""
+
+msgid "ID Movie"
+msgstr ""
+
+msgid "ID TVShow"
+msgstr ""
+
+msgid "Status of server processes"
+msgstr ""
+
+msgid "Check server status"
+msgstr ""
+
+msgid "Searching content, wait a moment..."
+msgstr ""
+
+msgid "Searching and extracting data..."
+msgstr ""
+
+msgid "Data found, completed process!"
+msgstr ""
+
+msgid "Error, no data..."
+msgstr ""
+
+msgid "Adding data..."
+msgstr ""
+
+msgid "Adding content to the database..."
+msgstr ""
+
+msgid "Process completed!"
+msgstr ""
+
+msgid "Content could not be added!"
+msgstr ""
+
+msgid "Server status query..."
+msgstr ""
+
+msgid "Verification completed!"
+msgstr ""
+
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+msgid "content already exists"
+msgstr "içerik zaten var"
+
+msgid "imported"
+msgstr "aktarıldı"
+
+msgid "Next page"
+msgstr "Sonraki Sayfa"
+
+msgid "Results in movies: page"
+msgstr ""
+
+msgid "titles found"
+msgstr ""
+
+msgid "Results in TVShows: page"
+msgstr ""
+
+msgid "there are"
+msgstr ""
+
+msgid "Update Rating"
+msgstr ""
+
+msgid "Add row"
+msgstr "Satır ekle"
+
+msgid "Send link(s)"
+msgstr "Altyazı Gönder"
+
+msgid "Shared"
+msgstr "Paylaşımlar"
+
+msgid "Data send.."
+msgstr ""
+
+msgid "Updating data.."
+msgstr ""
+
+msgid "Error"
+msgstr "Hata"
+
+msgid "Pending review"
+msgstr "Onay bekliyor"
+
+msgid "Disabled"
+msgstr "Kapalı"
+
+msgid "Links Shared"
+msgstr "Paylaşılan Bağlantılar"
+
+msgid "Manage pending links"
+msgstr ""
+
+msgid "Content published correctly.."
+msgstr "altyazı başarılı bir şekilde yayınlandı .."
+
+msgid "Sign out"
+msgstr "Çıkış Yap"
+
+msgid "My collection"
+msgstr "Koleksiyonum"
+
+msgid "Collection"
+msgstr "Koleksiyon"
+
+msgid "About"
+msgstr "Hakkımızda"
+
+msgid "Load more"
+msgstr "Daha Fazla"
+
+msgid "Select font-family by Google Fonts"
+msgstr ""
+
+msgid "Choose a color"
+msgstr ""
+
+msgid "Primary color"
+msgstr ""
+
+msgid "Background container"
+msgstr ""
+
+msgid "Add only CSS code"
+msgstr ""
+
+msgid "Font family"
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Slider controls"
+msgstr ""
+
+msgid "Items numbers"
+msgstr ""
+
+msgid "Number items shown"
+msgstr ""
+
+msgid "Enable Slider"
+msgstr ""
+
+msgid "Enable random content"
+msgstr ""
+
+msgid "Enable scrolling"
+msgstr ""
+
+msgid "DooPlay - Genres list"
+msgstr ""
+
+msgid "Full list of genres"
+msgstr ""
+
+msgid "DooPlay - Release year list"
+msgstr ""
+
+msgid "Full list release year"
+msgstr ""
+
+msgid "Sending data"
+msgstr ""
+
+msgid "Choose order in which you want to display your content"
+msgstr ""
+
+msgid "Filter for year"
+msgstr ""
+
+msgid "Search title"
+msgstr "Başlığı Arama:"
+
+msgid "Import ID"
+msgstr ""
+
+msgid "Search content"
+msgstr ""
+
+msgid "Search a title.."
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Example"
+msgstr ""
+
+msgid "Seasons and episodes"
+msgstr ""
+
+msgid "No more content to show."
+msgstr ""
+
+msgid "You haven't written anything about yourself"
+msgstr "Kendin hakkında bir şey yazmadın"
+
+msgid "Verify that the link is correct."
+msgstr ""
+
+msgid "Use the search box on the page."
+msgstr ""
+
+msgid "Contact support page."
+msgstr ""
+
+msgid "Page not found"
+msgstr "Sayfa Bulunamadı"
+
+msgid "report"
+msgstr "Rapor bildir"
+
+msgid "what going on?"
+msgstr "Peki buradaki olay nedir?"
+
+msgid "What is the problem? Please explain.."
+msgstr "Sorun nedir? Açıklayınız..."
+
+msgid "Email address"
+msgstr "E-posta adresi"
+
+msgid "Your email is only visible to moderators"
+msgstr ""
+
+msgid "Activate API Access"
+msgstr ""
+
+msgid "dbmovies API has not been activated, active to be able to generate content"
+msgstr ""
+
+msgid "click here to activate"
+msgstr ""
+
+msgid "Dooplay requires you to update the database"
+msgstr ""
+
+msgid "click here to update"
+msgstr ""
+
+msgid "Access key"
+msgstr ""
+
+msgid "View all results"
+msgstr ""
+
+msgid "Manually adding content"
+msgstr ""
+
+msgid "Reloading.."
+msgstr ""
+
+msgid "Updating database.."
+msgstr ""
+
+msgid "Action completed"
+msgstr ""
+
+msgid "In maintenance, try later"
+msgstr ""
+
+msgid "DBmovies generated content"
+msgstr ""
+
+msgid "Publish content with the release date"
+msgstr ""
+
+msgid "Do not share this information, private and non-transferable data"
+msgstr ""
+
+msgid "Set your API on Themoviedb.org API"
+msgstr ""
+
+msgid "Save settings"
+msgstr ""
+
+msgid "Saving data .."
+msgstr ""
+
+msgid "Redirect links"
+msgstr ""
+
+msgid "Direct redirect without waiting"
+msgstr ""
+
+msgid "Torrent"
+msgstr ""
+
+msgid "Get torrent"
+msgstr ""
+
+msgid "Main settings"
+msgstr ""
+
+msgid "Full width in homepage"
+msgstr ""
+
+msgid "Enable full width only in homepage"
+msgstr ""
+
+msgid "Upload a 152 x 152 px image that will represent your Web APP"
+msgstr ""
+
+msgid "Footer settings"
+msgstr ""
+
+msgid "Default footer"
+msgstr ""
+
+msgid "Simple footer"
+msgstr ""
+
+msgid "Complete footer"
+msgstr ""
+
+msgid "<code>Complete footer</code> require all configuration"
+msgstr ""
+
+msgid "Footer copyright text"
+msgstr ""
+
+msgid "Logo footer"
+msgstr ""
+
+msgid "Footer text"
+msgstr ""
+
+msgid "Text under footer logo"
+msgstr ""
+
+msgid "Footer menu titles"
+msgstr ""
+
+msgid "Saving changes.."
+msgstr ""
+
+msgid "just now"
+msgstr ""
+
+msgid "Clear registers"
+msgstr ""
+
+msgid "Do you really want to delete this register, once completed this action will not recover the data again?"
+msgstr ""
+
+msgid "Domain has already been registered"
+msgstr ""
+
+msgid "Performance"
+msgstr ""
+
+msgid "We recommend enabling these options, they will help in the performance of your website"
+msgstr ""
+
+msgid "Performace options"
+msgstr ""
+
+msgid "Remove <code>?ver=</code> parameters"
+msgstr ""
+
+msgid "Remove HTML, JavaScript and CSS comments"
+msgstr ""
+
+msgid "A cache plugin can increase page download speed dramatically. We recommend using %1$s"
+msgstr ""
+
+msgid "Database Optimizer"
+msgstr ""
+
+msgid "<strong>Warning:</strong> This tool deletes information from the database"
+msgstr ""
+
+msgid "Registers"
+msgstr ""
+
+msgid "Last revision"
+msgstr ""
+
+msgid "Transients options"
+msgstr ""
+
+msgid "Count Post Views"
+msgstr ""
+
+msgid "User ratings"
+msgstr ""
+
+msgid "User favorites"
+msgstr ""
+
+msgid "User views"
+msgstr ""
+
+msgid "Post featured"
+msgstr ""
+
+msgid "User reports"
+msgstr ""
+
+msgid "Main Slider"
+msgstr ""
+
+msgid "All genres"
+msgstr ""
+
+msgid "Popularity desc"
+msgstr ""
+
+msgid "Get content now"
+msgstr ""
+
+msgid "Popularity asc"
+msgstr ""
+
+msgid "Dbmovies license"
+msgstr ""
+
+msgid "Do you want to activate import tool?"
+msgstr ""
+
+msgid "Themoviedb api key"
+msgstr ""
+
+msgid "Languague"
+msgstr ""
+
+msgid "Upload poster image to server?"
+msgstr ""
+
+msgid "Do you want to autocomplete genres?"
+msgstr ""
+
+msgid "Publish content with the release date?"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "<strong>NOTE:</strong> Do not share this information, this key is only authorized for your website."
+msgstr ""
+
+msgid "Dbmovies for DooPlay"
+msgstr ""
+
+msgid "No results"
+msgstr ""
+
+msgid "Activations limit"
+msgstr ""
+
+msgid "Activations count"
+msgstr ""
+
+msgid "License status"
+msgstr ""
+
+msgid "Import all"
+msgstr ""
+
+msgid "Filtering.."
+msgstr ""
+
+msgid "Getting data.."
+msgstr ""
+
+msgid "Saving.."
+msgstr ""
+
+msgid "Remove featured"
+msgstr ""
+
+msgid "Add to featured"
+msgstr ""
+
+msgid "Unknown error"
+msgstr ""
+
+msgid "This content already exists in the database"
+msgstr ""
+
+msgid "results"
+msgstr ""
+
+msgid "in"
+msgstr ""
+
+msgid "Featured Title"
+msgstr ""
+
+msgid "Report"
+msgstr ""
+
+msgid "Rating user"
+msgstr ""
+
+msgid "Module featured titles"
+msgstr ""
+
+msgid "Homepage"
+msgstr ""
+
+msgid "Modules"
+msgstr ""
+
+msgid "Full width"
+msgstr ""
+
+msgid "<strong>NOTE:</strong> Drag and drop the modules in the order you want them"
+msgstr ""
+
+msgid "Modules disabled"
+msgstr ""
+
+msgid "Modules enabled"
+msgstr ""
+
+msgid "Featured Post"
+msgstr ""
+
+msgid "Blog entries"
+msgstr ""
+
+msgid "Reset License"
+msgstr ""
+
+msgid "Featured"
+msgstr ""
+
+msgid "%s %s by %s. All Rights Reserved. Powered by %s"
+msgstr ""
+
+msgid "Enable dynamic background"
+msgstr ""
+
+msgid "Single background"
+msgstr ""
+
+msgid "CSS code"
+msgstr ""
+
+msgid "Custom CSS"
+msgstr ""
+
+msgid "Requests system"
+msgstr ""
+
+msgid "<strong>NOTE:</strong> For security only registered users can make requests"
+msgstr ""
+
+msgid "Requests controls"
+msgstr ""
+
+msgid "Enable user requests"
+msgstr ""
+
+msgid "Limit number of requests per day to users"
+msgstr ""
+
+msgid "Notify by email every time a new request is added"
+msgstr ""
+
+msgid "Automatically post all requests"
+msgstr ""
+
+msgid "E-mail for notifications"
+msgstr ""
+
+msgid "Add an email where you want to be notified each time users make a new request"
+msgstr ""
+
+msgid "Requests per day"
+msgstr ""
+
+msgid "Limit the number of requests the user can make per day"
+msgstr ""
+
+msgid "prev"
+msgstr ""
+
+msgid "next"
+msgstr ""
+
+msgid "Completed process"
+msgstr ""
+
+msgid "Dbmovies Options"
+msgstr ""
+
+msgid "%s results in %s seconds"
+msgstr ""
+
+msgid "Requests List"
+msgstr ""
+
+msgid "+ Add new"
+msgstr ""
+
+msgid "Go back"
+msgstr ""
+
+msgid "Find a title you want to suggest"
+msgstr ""
+
+msgid "Request"
+msgstr ""
+
+msgid "Ready"
+msgstr ""
+
+msgid "I saw it"
+msgstr ""
+
+msgid "Add to favorites"
+msgstr ""
